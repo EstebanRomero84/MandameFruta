@@ -1,0 +1,21 @@
+﻿@model WebUI.Areas.Dashboard.ViewModels.PedidoViewModel
+<div>
+    <h5 class="alert alert-info">Nuevo pedido</h5>
+    <p>@Model.Fecha.ToShortDateString(), @Model.Fecha.ToShortTimeString()</p>
+</div>
+<div>
+    <p>Hola @Model.Receptor.NombreUsuario , has recibido un pedido de trueque.<br/>El usuario @Model.Emisor.NombreUsuario quiere proponerte un intercambio por tu árbol de @Model.Arbol.Variedad</p>
+    <p>Te ofrece lo siguiente:</p>
+    <ul>
+        @foreach (var arbol in Model.Oferta)
+        {
+            <li>
+                @arbol.Variedad
+            </li>
+        }
+    </ul>
+</div>
+<div class="footerPedido">
+    <button class="btn btn-success" onclick="javascript: Pedido.aceptarPedido(@Model.IdPedido);">Aceptar</button>
+    <button class="btn btn-danger" onclick="javascript: Pedido.rechazarPedido(@Model.IdPedido);">Rechazar</button>
+</div>

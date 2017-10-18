@@ -1,0 +1,17 @@
+﻿@model WebUI.Areas.Dashboard.ViewModels.PedidoViewModel
+<div>
+    <h5 class="alert alert-danger">Pedido rechazado</h5>
+    <p>@Model.Fecha.ToShortDateString(), @Model.Fecha.ToShortTimeString()</p>
+</div>
+<div>
+    <p>El usuario <span>@Model.Emisor.NombreUsuario</span> te propuso un intercambio por tu árbol de @Model.Arbol.Variedad</p>
+    <p>Ofreció lo siguiente:</p>
+    <ul>
+        @foreach (var arbol in Model.Oferta)
+        {
+            <li>
+                @arbol.Variedad
+            </li>
+        }
+    </ul>
+</div>

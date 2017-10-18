@@ -1,0 +1,303 @@
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\ApplicationInsights.config
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\csc.exe
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\csc.exe.config
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\csc.rsp
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\csi.exe
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\csi.rsp
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\System.AppContext.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\vbc.exe
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\vbc.exe.config
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\vbc.rsp
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\WebUI.dll.config
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\WebUI.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\WebUI.pdb
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Antlr3.Runtime.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Microsoft.AI.Web.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Newtonsoft.Json.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\System.Web.Helpers.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\System.Web.Mvc.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\System.Web.Optimization.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\System.Web.Razor.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\System.Web.WebPages.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\WebGrease.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\System.Web.Helpers.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\System.Web.Mvc.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\System.Web.Optimization.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\System.Web.Razor.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\System.Web.WebPages.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Antlr3.Runtime.pdb
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Newtonsoft.Json.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\Microsoft.AI.Web.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\es\System.Web.Helpers.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\es\System.Web.Mvc.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\es\System.Web.Optimization.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\es\System.Web.Razor.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\es\System.Web.WebPages.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\obj\Debug\WebUI.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\obj\Debug\WebUI.pdb
+D:\OneDrive\Curso programacion\Net\Proyesto Final\MVC\Mandame_Fruta\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\ApplicationInsights.config
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\csc.exe
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\csc.exe.config
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\csc.rsp
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\csi.exe
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\csi.rsp
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\System.AppContext.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\vbc.exe
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\vbc.exe.config
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\vbc.rsp
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\WebUI.dll.config
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\WebUI.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\WebUI.pdb
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Antlr3.Runtime.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Microsoft.AI.Web.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\MvcCheckBoxList.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Newtonsoft.Json.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\System.Web.Helpers.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\System.Web.Mvc.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\System.Web.Optimization.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\System.Web.Razor.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\System.Web.WebPages.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\WebGrease.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\System.Web.Helpers.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\System.Web.Mvc.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\System.Web.Optimization.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\System.Web.Razor.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\System.Web.WebPages.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Antlr3.Runtime.pdb
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Newtonsoft.Json.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\Microsoft.AI.Web.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\es\System.Web.Helpers.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\es\System.Web.Mvc.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\es\System.Web.Optimization.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\es\System.Web.Razor.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\es\System.Web.WebPages.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\obj\Debug\WebUI.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta\WebUI\obj\Debug\WebUI.pdb
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\ApplicationInsights.config
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\csc.exe
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\csc.exe.config
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\csc.rsp
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\csi.exe
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\csi.rsp
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\System.AppContext.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\vbc.exe
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\vbc.exe.config
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\vbc.rsp
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\WebUI.dll.config
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\WebUI.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\WebUI.pdb
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Antlr3.Runtime.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Microsoft.AI.Web.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\MvcCheckBoxList.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Newtonsoft.Json.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\System.Web.Helpers.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\System.Web.Mvc.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\System.Web.Optimization.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\System.Web.Razor.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\System.Web.WebPages.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\WebGrease.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\System.Web.Helpers.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\System.Web.Mvc.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\System.Web.Optimization.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\System.Web.Razor.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\System.Web.WebPages.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Antlr3.Runtime.pdb
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Newtonsoft.Json.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\Microsoft.AI.Web.xml
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\es\System.Web.Helpers.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\es\System.Web.Mvc.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\es\System.Web.Optimization.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\es\System.Web.Razor.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\es\System.Web.WebPages.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\obj\Debug\WebUI.dll
+D:\OneDrive\Curso programacion\Net\Proyesto Final\Mandame_Fruta - copia 10-10-2017\WebUI\obj\Debug\WebUI.pdb
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\ApplicationInsights.config
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\csc.exe
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\csc.exe.config
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\csc.rsp
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\csi.exe
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\csi.rsp
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\vbc.exe
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\vbc.exe.config
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\vbc.rsp
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\WebUI.dll.config
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\WebUI.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\WebUI.pdb
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\MvcCheckBoxList.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\System.Web.Helpers.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\System.Web.Mvc.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\System.Web.Optimization.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\System.Web.Razor.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\System.Web.WebPages.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\WebGrease.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\System.Web.Helpers.xml
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\System.Web.Mvc.xml
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\System.Web.Optimization.xml
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\System.Web.Razor.xml
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\System.Web.WebPages.xml
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\es\System.Web.Razor.resources.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\obj\Debug\WebUI.dll
+C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\obj\Debug\WebUI.pdb

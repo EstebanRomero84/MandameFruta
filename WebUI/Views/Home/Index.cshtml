@@ -1,0 +1,12 @@
+﻿@model IEnumerable<WebUI.Entities.Arbol>
+    <h1>Compartí tus frutos</h1>
+    <div class="mx-auto d-block contenedorMapa">
+        <div id="mapa"></div>
+    </div>
+@section Scripts{
+    <script>
+        jQuery(document).ready(function () {
+            Mapa.initMap(@Html.Raw(Json.Encode(Model)));
+        });
+    </script>
+}

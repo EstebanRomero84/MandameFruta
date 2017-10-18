@@ -1,0 +1,27 @@
+﻿@model WebUI.Entities.Arbol
+
+<div>
+    <h4>Arbol</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Variedad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Variedad)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Disponibilidad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Disponibilidad)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { }) |
+    @Html.ActionLink("Volver", "Lista", new { })
+</p>

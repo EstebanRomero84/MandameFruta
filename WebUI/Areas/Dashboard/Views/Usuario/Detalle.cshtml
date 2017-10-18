@@ -1,0 +1,50 @@
+﻿@model WebUI.Entities.Usuario
+
+<div>
+    <h4>Mi Perfil</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreUsuario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreUsuario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+    </dl>
+    <button class="btn btn-info" onclick="location.href='/Dashboard/Usuario/Editar';">Editar</button>
+</div>
+@*<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>*@
+
+@*script para que me muestre mensaje luego de editar datos de perfil*@
+@section Scripts{
+@Scripts.Render("~/bundles/app")
+<script>
+  $(function(){
+     var msg = "@(TempData["Msg"] as string)";
+     if (msg !== "") {
+         App.showMessage(true, msg);
+     }
+  });
+</script>
+}

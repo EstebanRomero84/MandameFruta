@@ -1,0 +1,81 @@
+﻿@using WebUI.Utilities;
+@using WebUI.Entities;
+@{
+    Usuario usuario = (Usuario)Session[Constantes.KeyCurrentUser];
+}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="container-fluid">
+        <header>
+            <div class="menu">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-3 navbar navbar-light">
+                            @Html.ActionLink("Mandame Fruta", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                        </div>
+                        <div class="col-sm-6 navbar">
+                            @using (Html.BeginForm("Buscar", "Buscador", new { area = "" }, FormMethod.Get ,new { @class = "" }))
+                            {
+                                <div class="buscador">
+                                    <div class="input-group">
+                                        @Html.Editor("variedad", new { htmlAttributes = new { @class = "form-control typeahead mr-sm-2", id = "buscar", placeholder = "Buscar fruta", autocomplete = "off", required = "true", type = "search" } })
+                                        @Html.ValidationMessage("variedad", "", new { @class = "text-danger" })
+                                        <input type="submit" value="Buscar" class="btn btn-primary" />
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                        <div class="col-sm-3">
+                            <nav class="navbar navbar-expand-lg navbar-light">
+                                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler"
+                                        aria-expanded="false" aria-label="Toggle navigation">
+                                    <span class="navbar-toggler-icon"></span>
+                                </button>
+                                <div class="collapse navbar-collapse" id="navbarToggler">
+                                    <ul class="nav nav-tabs ml-auto">
+                                        <li class="nav-item">
+                                           @Html.ActionLink("Cerrar sesión", "CerrarSesion", "Home", new { area="" }, new { @class = "dropdown-item" })
+                                        </li>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="content container-fluid">
+            <div class="row fila">
+                <div class="col-sm-3 col-md-2 d-none d-sm-block bg-light sidebar">
+                    <ul class="nav nav-pills flex-column">
+                        <li class="nav-item">@Html.ActionLink("Mi perfil", "Detalle", "Usuario", new { }, new { @class = "nav-link" })</li>
+                        <li class="nav-item">@Html.ActionLink("Mis árboles", "Lista", "Arbol", new { }, new { @class = "nav-link" })</li>
+                        <li class="nav-item">@Html.ActionLink("Pedidos", "Recibidos", "Pedido", new { }, new { @class = "nav-link" })</li>
+                    </ul>
+                </div>
+                <div class="col-md-10">
+                    <article class="contenido-target">
+                        @RenderBody()
+                    </article>
+                </div>
+            </div>
+        </div>
+        <footer></footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/app")
+    @Scripts.Render("~/bundles/typeahead")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

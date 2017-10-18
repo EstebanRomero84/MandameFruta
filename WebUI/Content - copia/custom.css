@@ -1,0 +1,40 @@
+body{
+    /*background-color: #e8e8e8;*/
+    background-color:red;
+}
+
+header{
+    background-color: #98c93e;
+}
+
+.menu a{
+    color:#495057;
+}
+
+.nav-tabs {
+     border-bottom: 0; 
+}
+
+#dropdown-user-menu{
+    right:0;
+}
+.show {
+    right: 0;
+}
+
+aside {
+    background-color: #ffffff;
+}
+
+.contenido-target{
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.nav-pills .nav-link {
+    border-radius: 0;
+}
+
+.nav>li>a:hover {
+    background-color: #98c93e;
+}
