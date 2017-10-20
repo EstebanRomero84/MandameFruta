@@ -12,7 +12,8 @@ namespace WebUI
                         "~/Content/bootstrap.css",
                         "~/Content/toastr.min.css",
                         "~/Content/typeahead.css",
-                        "~/Content/custom.css"));
+                        "~/Content/custom.css",
+                        "~/Content/nav-search.css"));
 
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
                         "~/Scripts/jquery-{version}.js"));

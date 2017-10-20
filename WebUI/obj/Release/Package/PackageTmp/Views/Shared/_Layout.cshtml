@@ -1,0 +1,50 @@
+﻿@using WebUI.Utilities;
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <style>
+         /* Always set the map height explicitly to define the size of the div
+        * element that contains the map. */
+         #map {
+             height: 100%;
+         }
+    </style>
+</head>
+<body>
+    <div class="container-fluid cuerpo">
+        @Html.Partial("_Navbar")
+        <div class="content">
+            <article class="contenido-target">
+                @RenderBody()
+            </article>
+        </div>
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true"></div>
+        <footer>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/app")
+    @Scripts.Render("~/bundles/typeahead")
+    @Scripts.Render("~/bundles/mapa")
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBqGcfcsaTBLx40K7RoHgQTLnV05qX2mZI"></script>
+    @if (Session[Constantes.KeyCurrentUser] == null)
+    {
+        @Scripts.Render("~/bundles/login")
+        <script type="text/javascript">
+            $(document).ready(function () {
+                Buscador.focus();
+                Login.init();
+            });
+        </script>
+    }
+    @RenderSection("scripts", required: false)       
+</body>
+</html>

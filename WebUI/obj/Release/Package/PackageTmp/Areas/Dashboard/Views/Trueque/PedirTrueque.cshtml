@@ -1,0 +1,62 @@
+﻿@model WebUI.Areas.Dashboard.ViewModels.FormularioPedidoViewModel
+<h5>Formulario de truque</h5>
+<p>
+@Html.DisplayNameFor(model => model.Variedad): @Html.DisplayFor(model => model.Variedad)<br />
+    @Html.DisplayNameFor(model => model.Disponibilidad): @Html.DisplayFor(model => model.Disponibilidad)
+</p>
+
+@using (Html.BeginForm("FormularioPedido", "Trueque"))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @if (Model.Oferta.Count()>0)
+        {
+        <p>A continuación seleccionar los árboles que deseas ofrecer a cambio:</p>
+            <div class="form-group">
+                @Html.HiddenFor(model => model.IdArbol)
+                @Html.HiddenFor(model => model.Emisor)
+                @Html.HiddenFor(model => model.Receptor)
+
+                @Html.LabelFor(model => model.Oferta, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10 checkboxArboles">
+                    @foreach (var item in Model.Oferta)
+                    {
+                        <label>
+                            <input type="checkbox"
+                                   name="ArbolesSeleccionados"
+                                   required
+                                   data-msg-required="Debés elegir al menos un árbol."
+                                   value="@item.Id" /> @item.Variedad
+                        </label>
+                        <br />
+                    }
+                    @Html.ValidationMessageFor(model => model.ArbolesSeleccionados, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Confirmar" class="btn btn-success" />
+                </div>
+            </div>
+
+        }
+        else
+        {
+            <p class="alert alert-danger">Para realizar un pedido, debes tener al menos un árbol para ofrecer a cambio.</p>
+            @Html.ActionLink("Agregar árbol", "Nuevo", "Arbol")
+        }
+    </div>
+}
+<script>
+  $(function(){
+     var msg = "@(TempData["Msg"] as string)";
+     if (msg !== "") {
+         App.showMessage(true, msg);
+     }
+  });
+</script>
+
+
+

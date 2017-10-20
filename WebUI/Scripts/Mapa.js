@@ -9,21 +9,6 @@
             center: { lat: -34.9314, lng: -57.9489 },
             zoom: 14
         });
-        //Try HTML5 geolocation.
-        if (navigator.geolocation) {
-            navigator.geolocation.getCurrentPosition(function (position) {
-                var pos = {
-                    lat: position.coords.latitude,
-                    lng: position.coords.longitude
-                };
-                map.setCenter(pos);
-            }, function () {
-                handleLocationError(true, infoWindow, map.getCenter());
-            });
-        } else {
-            // Browser doesn't support Geolocation
-            handleLocationError(false, infoWindow, map.getCenter());
-        }
         $.each(marcadores, function (i, item) {
             addMarker(item.Latitud, item.Longitud, item.Variedad, item.Id);
         })
@@ -32,7 +17,8 @@
             var contentString = '<div id="content">' +
                                     '<h5 id="firstHeading" class="firstHeading">' + arboles[variedad] + '</h5>' +
                                     '<div id="bodyContent">' +
-                                    '<a href="/Buscador/Detalle/' + id + '">Ver detalles</a>' + 
+                                    '<a href="/Buscador/Detalle/' + id + '">Ver detalles</a>' +
+ 
                                     '</div>' +
                                 '</div>';
             var location = new google.maps.LatLng(lat, long);

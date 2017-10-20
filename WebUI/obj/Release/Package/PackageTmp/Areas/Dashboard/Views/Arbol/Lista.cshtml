@@ -1,0 +1,52 @@
+﻿@model IEnumerable<WebUI.Entities.Arbol>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Variedad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Disponibilidad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Variedad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Disponibilidad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Direccion)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Editar", new { id=item.Id }) |
+            @Html.ActionLink("Detalle", "Detalle", new { id = item.Id }) |
+            @Html.ActionLink("Eliminar", "Borrar", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
+<p>
+    @Html.ActionLink("Agregar", "Nuevo", null, new { @class = "btn btn-info" })
+</p>
+
+
+@*script para que me muestre mensaje luego de editar datos de perfil*@
+@section Scripts{
+    @Scripts.Render("~/bundles/app")
+    <script>
+  $(function(){
+     var msg = "@(TempData["Msg"] as string)";
+     if (msg !== "") {
+         App.showMessage(true, msg);
+     }
+  });
+    </script>
+}

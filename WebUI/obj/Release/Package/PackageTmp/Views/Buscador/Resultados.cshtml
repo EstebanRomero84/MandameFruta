@@ -1,0 +1,81 @@
+﻿@model IEnumerable<WebUI.ViewModels.ResultadosViewModel>
+@using WebUI.Utilities;
+
+@if (@Model.Count().Equals(0))
+{
+    <h4>Variedad: @ViewBag.Variedad.</h4>
+    <h4>Por el momento no se encuentra disponible.</h4>
+}
+else
+{
+    <h4>@ViewBag.Titulo</h4>
+    <div class="row"></div>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Variedad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Disponibilidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Direccion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Distancia)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Variedad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Disponibilidad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Direccion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Distancia)
+                </td>
+                <td>
+                    @{if (Session[Constantes.KeyCurrentUser] == null)
+                    {
+                        <a href="javascript:Login.mostrarModalLogin('@Url.Action("MostrarModalLogin","Home", new { id = item.Id })');">Pedir trueque</a>
+                    }
+                    else
+                    {
+                        @Html.ActionLink("Pedir trueque", "PedirTrueque/" + item.Id, "Trueque", new { Area = "Dashboard" }, new { });
+                    }
+                    }
+                </td>
+            </tr>
+        }
+
+    </table>
+    <br/>
+<div class="mx-auto d-block contenedorMapa">
+    <div id="mapa"></div>
+</div>
+}
+@section Scripts{
+    @Scripts.Render("~/bundles/app")
+    <script>
+        jQuery(document).ready(function () {
+            var pathArray = window.location.pathname.split('/');
+            if (pathArray[2] != 'Detalle') {
+            Mapa.initMap(@Html.Raw(Json.Encode(Model)));
+            }
+        });
+         $(function(){
+            var msg = "@(TempData["Msg"] as string)";
+            if (msg !== "") {
+                App.showMessage(false, msg);
+            }
+        });
+    </script>
+}

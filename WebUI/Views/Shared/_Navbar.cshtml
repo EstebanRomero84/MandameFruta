@@ -4,28 +4,23 @@
     Usuario usuario = (Usuario)Session[Constantes.KeyCurrentUser];
 }
 <header>
-    <nav class="navbar navbar-expand-lg navbar-light container">
+    <nav class="navbar navbar-expand-md navbar-light container">
         @Html.ActionLink("Mandame Fruta", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarTogglerDemo02"
-                aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar5">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="col-sm-6">
-            @using (Html.BeginForm("Buscar", "Buscador", FormMethod.Get, new { @class = "" }))
+        <div class="navbar-collapse collapse" id="navbar5">
+            @using (Html.BeginForm("Buscar", "Buscador", FormMethod.Get, new { @class = "mx-2 my-auto d-inline w-100" }))
             {
-                <div class="buscador">
-                    <div class="input-group">
-                        @Html.Editor("variedad", new { htmlAttributes = new { @class = "form-control typeahead mr-sm-2", id = "buscar", placeholder = "Buscar fruta", autocomplete = "off", required = "true", type = "search" } })
-                        @Html.ValidationMessage("variedad", "", new { @class = "text-danger" })
-                        <input type="submit" value="Buscar" class="btn btn-primary" />
-                    </div>
+                <div class="input-group">
+                    @Html.Editor("variedad", new { htmlAttributes = new { @class = "form-control typeahead", id = "buscar", placeholder = "Buscar fruta", autocomplete = "off", required = "true", type = "search" } })
+                    @Html.ValidationMessage("variedad", "", new { @class = "text-danger" })
+                    <input type="submit" value="Buscar" class="btn btn-primary" />
                 </div>
             }
-        </div>
-        <div class="collapse navbar-collapse" id="navbarToggler">
             <ul class=" nav navbar-nav ml-auto mt-2 mt-lg-0">
                 @if (Session[Constantes.KeyCurrentUser] == null)
-                {                    
+                {
                     <li>
                         <a href="javascript:Login.mostrarModalLogin('@Url.Action("MostrarModalLogin","Home")');">
                             Ingresar
@@ -46,6 +41,7 @@
                     </li>
                 }
             </ul>
+
         </div>
     </nav>
 </header>

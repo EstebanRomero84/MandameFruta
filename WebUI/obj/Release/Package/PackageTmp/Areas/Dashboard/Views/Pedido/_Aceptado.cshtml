@@ -1,0 +1,20 @@
+﻿<div>
+    <h5 class="alert alert-success">Pedido aceptado</h5>
+    <p>@Model.Fecha.ToShortDateString(), @Model.Fecha.ToShortTimeString()</p>
+</div>
+<div>
+    <p>El usuario <span>@Model.Emisor.NombreUsuario</span> te propuso un intercambio por tu árbol de @Model.Arbol.Variedad</p>
+    <p>Ofreció lo siguiente:</p>
+    <ul>
+        @foreach (var arbol in Model.Oferta)
+        {
+            <li>
+                @arbol.Variedad
+            </li>
+        }
+    </ul>
+</div>
+<div>
+    <p>Para concretar el intercambio puedes contactarte con @Model.Emisor.NombreUsuario a travez de este mail :</p>
+    @Model.Emisor.Email
+</div>

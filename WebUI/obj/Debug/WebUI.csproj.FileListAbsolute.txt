@@ -301,3 +301,155 @@ C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\obj\Debug\WebUI.csprojResolveAssembly
 C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
 C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\obj\Debug\WebUI.dll
 C:\Users\esteb\Desktop\Mandame_Fruta\WebUI\obj\Debug\WebUI.pdb
+D:\Repos\MandameFruta\WebUI\bin\ApplicationInsights.config
+D:\Repos\MandameFruta\WebUI\bin\roslyn\csc.exe
+D:\Repos\MandameFruta\WebUI\bin\roslyn\csc.exe.config
+D:\Repos\MandameFruta\WebUI\bin\roslyn\csc.rsp
+D:\Repos\MandameFruta\WebUI\bin\roslyn\csi.exe
+D:\Repos\MandameFruta\WebUI\bin\roslyn\csi.rsp
+D:\Repos\MandameFruta\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repos\MandameFruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repos\MandameFruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repos\MandameFruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repos\MandameFruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repos\MandameFruta\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repos\MandameFruta\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repos\MandameFruta\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repos\MandameFruta\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repos\MandameFruta\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repos\MandameFruta\WebUI\bin\roslyn\System.AppContext.dll
+D:\Repos\MandameFruta\WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Repos\MandameFruta\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repos\MandameFruta\WebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\Repos\MandameFruta\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repos\MandameFruta\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repos\MandameFruta\WebUI\bin\roslyn\vbc.exe
+D:\Repos\MandameFruta\WebUI\bin\roslyn\vbc.exe.config
+D:\Repos\MandameFruta\WebUI\bin\roslyn\vbc.rsp
+D:\Repos\MandameFruta\WebUI\bin\roslyn\VBCSCompiler.exe
+D:\Repos\MandameFruta\WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Repos\MandameFruta\WebUI\bin\WebUI.dll.config
+D:\Repos\MandameFruta\WebUI\bin\WebUI.dll
+D:\Repos\MandameFruta\WebUI\bin\WebUI.pdb
+D:\Repos\MandameFruta\WebUI\bin\Antlr3.Runtime.dll
+D:\Repos\MandameFruta\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Repos\MandameFruta\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Repos\MandameFruta\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Repos\MandameFruta\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Repos\MandameFruta\WebUI\bin\Microsoft.AI.Web.dll
+D:\Repos\MandameFruta\WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\Repos\MandameFruta\WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\Repos\MandameFruta\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repos\MandameFruta\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Repos\MandameFruta\WebUI\bin\MvcCheckBoxList.dll
+D:\Repos\MandameFruta\WebUI\bin\Newtonsoft.Json.dll
+D:\Repos\MandameFruta\WebUI\bin\System.Web.Helpers.dll
+D:\Repos\MandameFruta\WebUI\bin\System.Web.Mvc.dll
+D:\Repos\MandameFruta\WebUI\bin\System.Web.Optimization.dll
+D:\Repos\MandameFruta\WebUI\bin\System.Web.Razor.dll
+D:\Repos\MandameFruta\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Repos\MandameFruta\WebUI\bin\System.Web.WebPages.dll
+D:\Repos\MandameFruta\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Repos\MandameFruta\WebUI\bin\WebGrease.dll
+D:\Repos\MandameFruta\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repos\MandameFruta\WebUI\bin\System.Web.Helpers.xml
+D:\Repos\MandameFruta\WebUI\bin\System.Web.Mvc.xml
+D:\Repos\MandameFruta\WebUI\bin\System.Web.Optimization.xml
+D:\Repos\MandameFruta\WebUI\bin\System.Web.Razor.xml
+D:\Repos\MandameFruta\WebUI\bin\System.Web.WebPages.xml
+D:\Repos\MandameFruta\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Repos\MandameFruta\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Repos\MandameFruta\WebUI\bin\Antlr3.Runtime.pdb
+D:\Repos\MandameFruta\WebUI\bin\Newtonsoft.Json.xml
+D:\Repos\MandameFruta\WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\Repos\MandameFruta\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Repos\MandameFruta\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Repos\MandameFruta\WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\Repos\MandameFruta\WebUI\bin\Microsoft.AI.Web.xml
+D:\Repos\MandameFruta\WebUI\bin\es\System.Web.Helpers.resources.dll
+D:\Repos\MandameFruta\WebUI\bin\es\System.Web.Mvc.resources.dll
+D:\Repos\MandameFruta\WebUI\bin\es\System.Web.Optimization.resources.dll
+D:\Repos\MandameFruta\WebUI\bin\es\System.Web.Razor.resources.dll
+D:\Repos\MandameFruta\WebUI\bin\es\System.Web.WebPages.resources.dll
+D:\Repos\MandameFruta\WebUI\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Repos\MandameFruta\WebUI\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Repos\MandameFruta\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Repos\MandameFruta\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+D:\Repos\MandameFruta\WebUI\obj\Debug\WebUI.dll
+D:\Repos\MandameFruta\WebUI\obj\Debug\WebUI.pdb
+D:\MandameFruta Modificado\WebUI\bin\ApplicationInsights.config
+D:\MandameFruta Modificado\WebUI\bin\roslyn\csc.exe
+D:\MandameFruta Modificado\WebUI\bin\roslyn\csc.exe.config
+D:\MandameFruta Modificado\WebUI\bin\roslyn\csc.rsp
+D:\MandameFruta Modificado\WebUI\bin\roslyn\csi.exe
+D:\MandameFruta Modificado\WebUI\bin\roslyn\csi.rsp
+D:\MandameFruta Modificado\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MandameFruta Modificado\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MandameFruta Modificado\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MandameFruta Modificado\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MandameFruta Modificado\WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MandameFruta Modificado\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MandameFruta Modificado\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MandameFruta Modificado\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MandameFruta Modificado\WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MandameFruta Modificado\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MandameFruta Modificado\WebUI\bin\roslyn\System.AppContext.dll
+D:\MandameFruta Modificado\WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\MandameFruta Modificado\WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MandameFruta Modificado\WebUI\bin\roslyn\System.IO.FileSystem.dll
+D:\MandameFruta Modificado\WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MandameFruta Modificado\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\MandameFruta Modificado\WebUI\bin\roslyn\vbc.exe
+D:\MandameFruta Modificado\WebUI\bin\roslyn\vbc.exe.config
+D:\MandameFruta Modificado\WebUI\bin\roslyn\vbc.rsp
+D:\MandameFruta Modificado\WebUI\bin\roslyn\VBCSCompiler.exe
+D:\MandameFruta Modificado\WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\MandameFruta Modificado\WebUI\bin\WebUI.dll.config
+D:\MandameFruta Modificado\WebUI\bin\WebUI.dll
+D:\MandameFruta Modificado\WebUI\bin\WebUI.pdb
+D:\MandameFruta Modificado\WebUI\bin\Antlr3.Runtime.dll
+D:\MandameFruta Modificado\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MandameFruta Modificado\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\MandameFruta Modificado\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MandameFruta Modificado\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MandameFruta Modificado\WebUI\bin\Microsoft.AI.Web.dll
+D:\MandameFruta Modificado\WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\MandameFruta Modificado\WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\MandameFruta Modificado\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MandameFruta Modificado\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\MandameFruta Modificado\WebUI\bin\MvcCheckBoxList.dll
+D:\MandameFruta Modificado\WebUI\bin\Newtonsoft.Json.dll
+D:\MandameFruta Modificado\WebUI\bin\System.Web.Helpers.dll
+D:\MandameFruta Modificado\WebUI\bin\System.Web.Mvc.dll
+D:\MandameFruta Modificado\WebUI\bin\System.Web.Optimization.dll
+D:\MandameFruta Modificado\WebUI\bin\System.Web.Razor.dll
+D:\MandameFruta Modificado\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\MandameFruta Modificado\WebUI\bin\System.Web.WebPages.dll
+D:\MandameFruta Modificado\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\MandameFruta Modificado\WebUI\bin\WebGrease.dll
+D:\MandameFruta Modificado\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MandameFruta Modificado\WebUI\bin\System.Web.Helpers.xml
+D:\MandameFruta Modificado\WebUI\bin\System.Web.Mvc.xml
+D:\MandameFruta Modificado\WebUI\bin\System.Web.Optimization.xml
+D:\MandameFruta Modificado\WebUI\bin\System.Web.Razor.xml
+D:\MandameFruta Modificado\WebUI\bin\System.Web.WebPages.xml
+D:\MandameFruta Modificado\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\MandameFruta Modificado\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\MandameFruta Modificado\WebUI\bin\Antlr3.Runtime.pdb
+D:\MandameFruta Modificado\WebUI\bin\Newtonsoft.Json.xml
+D:\MandameFruta Modificado\WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\MandameFruta Modificado\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\MandameFruta Modificado\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MandameFruta Modificado\WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\MandameFruta Modificado\WebUI\bin\Microsoft.AI.Web.xml
+D:\MandameFruta Modificado\WebUI\bin\es\System.Web.Helpers.resources.dll
+D:\MandameFruta Modificado\WebUI\bin\es\System.Web.Mvc.resources.dll
+D:\MandameFruta Modificado\WebUI\bin\es\System.Web.Optimization.resources.dll
+D:\MandameFruta Modificado\WebUI\bin\es\System.Web.Razor.resources.dll
+D:\MandameFruta Modificado\WebUI\bin\es\System.Web.WebPages.resources.dll
+D:\MandameFruta Modificado\WebUI\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\MandameFruta Modificado\WebUI\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\MandameFruta Modificado\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\MandameFruta Modificado\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+D:\MandameFruta Modificado\WebUI\obj\Debug\WebUI.dll
+D:\MandameFruta Modificado\WebUI\obj\Debug\WebUI.pdb

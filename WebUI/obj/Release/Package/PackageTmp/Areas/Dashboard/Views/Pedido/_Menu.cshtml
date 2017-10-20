@@ -1,0 +1,25 @@
+﻿<div class="row menuPedidos">
+    <ul class="nav nav-tabs">
+        <li class="nav-item bandeja">
+            @Html.ActionLink("Recibidos", "Recibidos", "Pedido", new { area = "Dashboard" }, new { @class = "nav-link" })
+        </li>
+        <li class="nav-item bandeja">
+            @Html.ActionLink("Enviados", "Enviados", "Pedido", new { area = "Dashboard" }, new { @class = "nav-link" })
+        </li>
+    </ul>
+    @if (ViewContext.RouteData.Values["action"].ToString() == "Recibidos")
+    {
+        <ul class="nav nav-tabs">   
+            <li><p class="nav-link">Filtrar: </p></li>
+            <li class="nav-item dropdown ml-auto">
+                <a class="nav-link dropdown-toggle" id="dropdown-menu-seleccionado" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Todos</a>
+                <div class="dropdown-menu">
+                    <a href="javascript:Pedido.mostrarPedidos();">Todos</a>
+                    <a href="javascript:Pedido.filtrarPedidos('Pendiente');">Pendientes</a>
+                    <a href="javascript:Pedido.filtrarPedidos('Aceptado');">Aceptados</a>
+                    <a href="javascript:Pedido.filtrarPedidos('Rechazado');">Rechazados</a>
+                </div>
+            </li>
+        </ul>
+    }
+</div>

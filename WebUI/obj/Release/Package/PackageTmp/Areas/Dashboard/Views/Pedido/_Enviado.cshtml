@@ -1,0 +1,19 @@
+﻿@model WebUI.Areas.Dashboard.ViewModels.PedidoViewModel
+<div class="contenidoPedido">
+    <div>
+        <h5 class="alert alert-info">Pedido enviado</h5>
+        <p>@Model.Fecha.ToShortDateString(), @Model.Fecha.ToShortTimeString()</p>
+    </div>
+    <div>
+        <p>Has enviado un pedido de trueque a el usuario @Model.Receptor.NombreUsuario por el siguiente árbol:<br /> @Model.Arbol.Variedad</p>
+        <p>Y ofreciste lo siguiente:</p>
+        <ul>
+            @foreach (var arbol in Model.Oferta)
+            {
+                <li>
+                    @arbol.Variedad
+                </li>
+            }
+        </ul>
+    </div>
+</div>

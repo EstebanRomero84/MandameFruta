@@ -1,0 +1,21 @@
+﻿@model WebUI.Areas.Dashboard.ViewModels.ArbolViewModel
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content miModal">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Iniciar sesión</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>¿Esta seguro que quiere eliminar este árbol?</p>
+            </div>
+            <div class="modal-footer">
+                @Html.ActionLink("Eliminar", "Borrar", new { id = Model.Id }, new { htmlAttributes = new { @class = "btn btn-danger" } })
+                <button class="btn btn-info close" value="Cancelar"  data-dismiss="modal" aria-label="Close" ></button>
+                <a href="javascript:Login.mostrarRestaurarCuenta();" class="btn btn-danger">Eliminar</a>
+            </div>
+        </div>
+    </div>
+</div>
