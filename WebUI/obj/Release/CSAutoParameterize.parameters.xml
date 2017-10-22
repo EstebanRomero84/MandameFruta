@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MandameFruta-Web.config Connection String" description="MandameFruta Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Server=tcp:mandamefruta.database.windows.net,1433;Initial Catalog=mandamefrutaBD;Persist Security Info=False;User ID=usuario;Password=Esteban123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Repos\\MandameFruta\\WebUI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MandameFruta']/@connectionString" />
+  </parameter>
+</parameters>

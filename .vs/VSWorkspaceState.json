@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\WebUI",
-    "\\WebUI\\Controllers"
+    "\\WebUI\\Views\\Shared"
   ],
-  "SelectedNode": "\\WebUI\\Controllers\\AltaUsuarioController.cs",
+  "SelectedNode": "\\WebUI",
   "PreviewInSolutionExplorer": false
 }

@@ -148,3 +148,4 @@ D:\MandameFruta Modificado\WebUI\bin\es\System.Web.WebPages.Razor.resources.dll
 D:\MandameFruta Modificado\WebUI\obj\Release\WebUI.csproj.CoreCompileInputs.cache
 D:\MandameFruta Modificado\WebUI\obj\Release\WebUI.dll
 D:\MandameFruta Modificado\WebUI\obj\Release\WebUI.pdb
+D:\Repos\MandameFruta\WebUI\obj\Release\WebUI.csprojResolveAssemblyReference.cache
