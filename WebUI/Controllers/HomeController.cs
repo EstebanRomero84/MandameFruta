@@ -38,9 +38,16 @@ namespace WebUI.Controllers
 
         public ActionResult MostrarModalLogin(int? id)
         {
-            LoginViewModel model = new LoginViewModel();
-            model.id = id;
+            LoginViewModel model = new LoginViewModel
+            {
+                id = id
+            };
             return PartialView("_ModalLogin", model);
+        }
+
+        public ActionResult MostrarNavbar()
+        {
+            return PartialView("_Navbar");
         }
 
         [HttpPost]

@@ -1,4 +1,6 @@
-﻿@using WebUI.Utilities;
+﻿@model WebUI.ViewModels.BuscarViewModel
+
+@using WebUI.Utilities;
 @using WebUI.Entities;
 @{
     Usuario usuario = (Usuario)Session[Constantes.KeyCurrentUser];
@@ -12,8 +14,9 @@
         <div class="navbar-collapse collapse" id="navbar5">
             @using (Html.BeginForm("Buscar", "Buscador", FormMethod.Get, new { @class = "mx-2 my-auto d-inline w-100" }))
             {
+                @Html.EditorFor(model => model.Posicion)
                 <div class="input-group">
-                    @Html.Editor("variedad", new { htmlAttributes = new { @class = "form-control typeahead", id = "buscar", placeholder = "Buscar fruta", autocomplete = "off", required = "true", type = "search" } })
+                    @Html.EditorFor(model => model.Variedad, new { htmlAttributes = new { @class = "form-control typeahead", id = "buscar", placeholder = "Buscar fruta", autocomplete = "off", required = "true", type = "search" } })
                     @Html.ValidationMessage("variedad", "", new { @class = "text-danger" })
                     <input type="submit" value="Buscar" class="btn btn-primary" />
                 </div>

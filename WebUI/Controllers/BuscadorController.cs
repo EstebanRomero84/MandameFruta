@@ -12,7 +12,7 @@ namespace WebUI.Controllers
 {
     public class BuscadorController : Controller
     {
-        public ActionResult Buscar(String variedad)
+        public ActionResult Buscar(BuscarViewModel model)
         {
             int? IdUsuario = null;
             if (Session[Constantes.KeyCurrentUser] != null)
@@ -20,9 +20,9 @@ namespace WebUI.Controllers
                 Usuario usuario = (Usuario)Session[Constantes.KeyCurrentUser];
                 IdUsuario = usuario.Id;
             }
-            ViewBag.Variedad = variedad;
+            ViewBag.Variedad = model.Variedad;
             ViewBag.Titulo = "Resultados de búsqueda";
-            List<Arbol> arbols = ArbolManager.GetArbolesByVariedad(variedad, IdUsuario);
+            List<Arbol> arbols = ArbolManager.GetArbolesByVariedad(model.Variedad, IdUsuario);
             //armar array de destinos
             String destinos = "";
             foreach (var arbol in arbols)
@@ -30,7 +30,7 @@ namespace WebUI.Controllers
                 destinos += arbol.Latitud + ", " + arbol.Longitud + "|";
             }
             //pasarlo al manager
-            JObject arrayDistancias = ArbolManager.CalcularDistancia("-34.9314, -57.9489", destinos);
+            JObject arrayDistancias = ArbolManager.CalcularDistancia(model.Posicion, destinos);
             //armar el viewmodel y agregar la ditancia
             List<ResultadosViewModel> arboles = new List<ResultadosViewModel>();
             for (int i = 0; i < arbols.Count; i++)
@@ -48,7 +48,7 @@ namespace WebUI.Controllers
                     }
                 );
         }
-            //reodeno la lista con linq segun distancia
+            //reordeno la lista con linq segun distancia
             var result = (from s in arboles
                          select s).OrderBy(x => x.Distancia);
             return View("Resultados", result);

@@ -16,10 +16,12 @@
                     lat: position.coords.latitude,
                     lng: position.coords.longitude
                 };
+                //Inserto la posicion en campo oculto del formulario de busqueda
+                $('#Posicion').val(pos.lat + ', ' + pos.lng);
                 map.setCenter(pos);
             }, function () {
                 handleLocationError(true, infoWindow, map.getCenter());
-            });
+                });
         } else {
             // Browser doesn't support Geolocation
             handleLocationError(false, infoWindow, map.getCenter());
@@ -32,7 +34,8 @@
             var contentString = '<div id="content">' +
                                     '<h5 id="firstHeading" class="firstHeading">' + arboles[variedad] + '</h5>' +
                                     '<div id="bodyContent">' +
-                                    '<a href="/Buscador/Detalle/' + id + '">Ver detalles</a>' + 
+                                    '<a href="/Buscador/Detalle/' + id + '">Ver detalles</a>' +
+ 
                                     '</div>' +
                                 '</div>';
             var location = new google.maps.LatLng(lat, long);

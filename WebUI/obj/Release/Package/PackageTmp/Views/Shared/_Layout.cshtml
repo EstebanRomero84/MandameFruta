@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="container-fluid cuerpo">
-        @Html.Partial("_Navbar")
+        @{ Html.RenderAction("MostrarNavbar","Home"); }
         <div class="content">
             <article class="contenido-target">
                 @RenderBody()

@@ -9,6 +9,23 @@
             center: { lat: -34.9314, lng: -57.9489 },
             zoom: 14
         });
+        //Try HTML5 geolocation.
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(function (position) {
+                var pos = {
+                    lat: position.coords.latitude,
+                    lng: position.coords.longitude
+                };
+                //Inserto la posicion en campo oculto del formulario de busqueda
+                $('#Posicion').val(pos.lat + ', ' + pos.lng);
+                map.setCenter(pos);
+            }, function () {
+                handleLocationError(true, infoWindow, map.getCenter());
+                });
+        } else {
+            // Browser doesn't support Geolocation
+            handleLocationError(false, infoWindow, map.getCenter());
+        }
         $.each(marcadores, function (i, item) {
             addMarker(item.Latitud, item.Longitud, item.Variedad, item.Id);
         })
