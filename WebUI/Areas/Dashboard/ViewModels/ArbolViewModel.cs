@@ -22,9 +22,11 @@ namespace WebUI.Areas.Dashboard.ViewModels
         [Display(Name = "Dirección")]
         public String Direccion { get; set; }
 
+        [Required]
         [HiddenInput(DisplayValue = false)]
         public String Latitud { get; set; }
 
+        [Required]
         [HiddenInput(DisplayValue = false)]
         public String Longitud { get; set; }
     }
